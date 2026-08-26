@@ -1,4 +1,4 @@
-# Predictive Demand Analysis – EduPro
+# Predictive Demand Analysis 
 
 ## 📊 Project Overview
 
